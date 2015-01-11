@@ -12,4 +12,4 @@ Money can't buy happiness, but neither can poverty.
 
 ### Contact Inti for GPS Reporting
 
-[email@domain.com](gps@intitechnologies.com)
+[gps@intitechnologies.com]
