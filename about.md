@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+A Geotab reseller since 2006
+Geotab is a solid solution partner for enterprise operations with demanding needs for quality, data integrity and employee safety
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Money can't buy happiness, but neither can poverty. 
 
-### Contact me
+### Contact Inti for GPS Reporting
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](gps@intitechnologies.com)
